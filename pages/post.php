@@ -48,7 +48,6 @@
       <input type="hidden" name="delete_id" value="<?php echo $post['id']; ?>">
       <input type="submit" name="delete" value="Delete" class="btn btn-danger">
     </form>
-
     <a href="<?php echo ROOT_URL; ?>pages/editpost.php?id=<?php echo $post['id'];?>" class="btn btn-default">Edit</a>
   </div>
 <?php include('../partials/footer.php');?>

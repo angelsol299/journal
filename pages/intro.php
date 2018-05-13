@@ -34,8 +34,7 @@ if ($_SESSION['loggedIn']) { ?>
             <a class="btn btn-danger" href="http://localhost:8888/journal/pages/delete.php?entryID=
             <?php echo $entry['entryID']; ?>">Delete Post</a>
             <br><br>
-
-        <a href="intro.php" class="text-danger">Back to top</a>
+            <a href="intro.php" class="text-danger">Back to top</a>
         </div>
     <?php endforeach;
       ?>
