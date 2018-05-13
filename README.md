@@ -1,14 +1,15 @@
 # journal
 Journal blog
+Angel Osoria
+link: https://github.com/angelsol299/journal
 
 Student project for a Jouney blog. It has the following characteristics:
 
-*Session expire (5MINS)
+*Session expire (5 minutes)
 *login/log out
 *CRUD Post
 *User registration
 *Responsive design
-
 
 
 Database on MySQL with the following characteristics:
